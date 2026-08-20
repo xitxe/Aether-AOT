@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "bootstrap_only": true,
+  "manifest_url": "https://aether-aot.web.app/update.json",
+  "fallback": "github_releases",
+  "repository": "xitxe/Aether-AOT"
+}
